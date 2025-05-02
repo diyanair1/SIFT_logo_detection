@@ -1,0 +1,7 @@
+venv/
+logos/
+__pycache__/
+*.pyc
+cropped_logos/
+expanded_logo.jpg
+sift_test.py
