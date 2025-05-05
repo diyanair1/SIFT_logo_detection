@@ -16,6 +16,6 @@ Fig. 1. Reference image of the Los Angeles Lakers logo.
 Fig. 2. Frame from a basketball game broadcast, showing the Lakers logo on the scoreboard.
 
 ### SIFT Feature Matching Results
-![feature match](https://github.com/diyanair1/SIFT_logo_detection/blob/4cc2d32b11d67cf06380d578752e8ee586e83899/feature_match.png)
+![feature match](https://github.com/diyanair1/SIFT_logo_detection/blob/de8463e55bc4f395a04ca9f04ab5c204c009cf6f/feature_match.png)
 
 Fig. 3. Point correspondences using FLANN matcher
